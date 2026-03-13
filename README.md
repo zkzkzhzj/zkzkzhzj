@@ -1,7 +1,8 @@
-## 제대로 된 개발을 위하여 첫 발걸음을 땐 3년차 개발자 이무진 입니다
+## 이무진
 
 ### Blog
 https://medium.com/@zkzkzhzj
+ * Z-Blog 배포 이후 이전 예정
 
 ### Project & My Develop Log
 https://github.com/zkzkzhzj/Z-Blog
