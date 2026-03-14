@@ -9,3 +9,6 @@ https://github.com/zkzkzhzj/Z-Blog
 
 ### Algorithm
 https://github.com/zkzkzhzj/Algorithm
+
+### 목표
+당근, 마플
