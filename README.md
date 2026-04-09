@@ -6,7 +6,7 @@
 책도 매일 조금씩 읽어가자
 
 ### Blog
-https://zlog.page/blog/
+https://zlog.page
 
 ### Project & My Develop Log
 https://github.com/zkzkzhzj/ChatAppProject
