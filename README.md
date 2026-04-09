@@ -1,13 +1,12 @@
 ## 이무진
 
 ### ~2026-04-19
-과외 수강 기간 과제에 집중 한 후 Z-Blog 제대로 해보자
+과외 기간
 
 책도 매일 조금씩 읽어가자
 
 ### Blog
-https://medium.com/@zkzkzhzj
- * Z-Blog 배포 이후 이전 예정
+https://zlog.page/blog/
 
 ### Project & My Develop Log
 https://github.com/zkzkzhzj/ChatAppProject
