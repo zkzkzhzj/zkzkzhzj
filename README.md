@@ -25,6 +25,10 @@ https://github.com/zkzkzhzj/Algorithm
  - 중고 거래, 커뮤니케이션, 내집 근처 사랑
  - 사람과 함께하는 서비스, 자사 제품을 사랑하는 분들
 
+도르 - TypeScript, React, React Native, Next.js, Electron, Python, Node.js, MySQL
+ - 게임 하이라이트, 게이머 소셜 미디어
+ - 게이머로서 좋아하는 산업, 게이머 입장으로 고민하는 즐거움 
+
 ### 관심 블로그 찜
 https://kciter.so/
 
